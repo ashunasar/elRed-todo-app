@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912115230083",
+    "project_id": "elread-todoapp",
+    "storage_bucket": "elread-todoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912115230083:android:0df9038ce81a2beea702b6",
+        "android_client_info": {
+          "package_name": "com.elred.todoapp.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912115230083-a4e5k7tqqirs8hnin6f12bhbqigh4tlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd4vKkvdFdWFBLppBYPP4sIkCdH-ijf1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912115230083-a4e5k7tqqirs8hnin6f12bhbqigh4tlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
